@@ -35,5 +35,30 @@
 - git log - decerate - graph - oneline
 
 
+/* các bước tạo file và đẩy code lên github*/
+
+git init
+git add . 
+git commit -m "add file"
+git push origin...
+git remote...
+git push... origin...
+
+// sửa file
+git status
+git add .
+git commit -m "update file"
+git push
+
+// conflich
+
+git pull 
+select 
+git add .
+git commit -m "resolve conflich"
+git push
+
+// 
+
 
 
